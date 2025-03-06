@@ -1,0 +1,19 @@
+# Google AI SDK
+google-genai>=1.4.0
+
+# UI Framework
+PyQt6>=6.5.0
+
+# Utilities
+pyyaml>=6.0
+python-dotenv>=1.0.0
+
+# Async support
+asyncio>=3.4.3
+
+# Testing
+pytest>=7.3.1
+pytest-mock>=3.10.0
+
+# Text processing
+markdown>=3.4.3
