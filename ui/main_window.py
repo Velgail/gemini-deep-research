@@ -1,4 +1,4 @@
-from PyQt5.QtWidgets import QMainWindow, QWidget, QVBoxLayout, QGroupBox, QTextEdit, QPushButton, QHBoxLayout, QStatusBar, QMessageBox, QInputDialog
+from PyQt6.QtWidgets import QMainWindow, QWidget, QVBoxLayout, QGroupBox, QTextEdit, QPushButton, QHBoxLayout, QStatusBar, QMessageBox, QInputDialog
 
 class DeepResearchUI(QMainWindow):
     """Deep Researchのメインユーザーインターフェース"""
